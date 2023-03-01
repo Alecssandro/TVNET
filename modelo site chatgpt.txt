@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Séries Online - O melhor conteúdo para você!</title>
+    <meta name="description" content="Séries Online - O melhor conteúdo para você!">
+    <meta name="keywords" content="Séries, Netflix, Amazon Prime, Hulu">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="Séries Online - Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Séries</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="destaque">
+            <h2>Séries em destaque</h2>
+            <div class="series">
+                <div class="serie">
+                    <img src="serie1.jpg" alt="Série 1">
+                    <h3>Série 1</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean et velit sit amet elit malesuada sodales quis eget erat.</p>
+                </div>
+                <div class="serie">
+                    <img src="serie2.jpg" alt="Série 2">
+                    <h3>Série 2</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean et velit sit amet elit malesuada sodales quis eget erat.</p>
+                </div>
+                <div class="serie">
+                    <img src="serie3.jpg" alt="Série 3">
+                    <h3>Série 3</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean et velit sit amet elit malesuada sodales quis eget erat.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="categorias">
+            <h2>Categorias de séries</h2>
+            <div class="categorias-series">
+                <div class="categoria-serie">
+                    <img src="categoria1.jpg" alt="Categoria 1">
+                    <h3>Categoria 1</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean et velit sit amet elit malesuada sodales quis eget erat.</p>
+                </div>
+                <div class="categoria-serie">
+                    <img src="categoria2.jpg" alt="Categoria 2">
+                    <h3>Categoria 2</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean et velit sit amet elit malesuada sodales quis eget erat.</p>
+                </div>
+                <div class="categoria-serie">
+                    <img src="categoria3.jpg" alt="Categoria 3">
+                    <h3>Categoria 3</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean et velit sit amet elit malesuada sodales quis eget erat.</p>
+                </div>
+            </div
